@@ -1,6 +1,6 @@
 # Repositorio para el examen de GIT
 
-Mi nombre es **Enrique Martínez Fernández** y en este examen voy a poner en práctica todo lo que he aprendido sobre GIT
+Mi nombre es **Miguel Ángel Pérez García** y en este examen voy a poner en práctica todo lo que he aprendido sobre GIT
 
 ## Algunas de las cosas que tendré que hacer serán
 
